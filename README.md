@@ -20,9 +20,8 @@ This is a simple JavaScript counter app that allows users to increment, decremen
 
 Once you have the app running locally, you can use the following features:
 
-- To increment the counter, click on the "+" button.
-- To decrement the counter, click on the "-" button.
-- To reset the counter, click on the "Reset" button.
+- To increment the counter, click on the "Increment" button.
+- To Save the counter, click on the "Save" button.
 
 ## Contributing
 
